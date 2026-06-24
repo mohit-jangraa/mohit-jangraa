@@ -68,7 +68,7 @@ Analyzed transactional data from 3,900 purchases across demographics, purchase d
 
 ---
 
-### 📦 [Vendor Performance Analysis](https://github.com/mohit-jangraa/Core-Idea-Of-Vendor-Performance-Analyst-Projects)
+### 📦 [Funnel Drop-Off Analysis](https://github.com/mohit-jangraa/Funnel-Drop-off-analysis)
 > **Python · SQL · Power BI**
 
 End-to-end vendor analytics project following the full data pipeline — from business problem definition to final BI report.
@@ -94,7 +94,6 @@ Sales and growth analytics on Zepto dataset — referral volume analysis, A/B te
 
 | Certificate | Issuer | Status |
 |---|---|---|
-| 🏅 Google Data Analytics Professional | Google via Coursera | ✅ Completed |
 | 🏅 Data Analytics Virtual Internship | Deloitte via Forage | ✅ Completed |
 | 📖 Microsoft Power BI (PL-300) | Microsoft | 🔄 In Progress |
 
