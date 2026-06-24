@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-234a42412/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohit-jangraa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Mohit_Jangra001/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mohit-jangraa.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mohit-jangra-portfolio.netlify.app/)
 ![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-39ff14?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohit-jangraa&style=flat&color=39ff14)
 
