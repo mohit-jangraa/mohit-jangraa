@@ -28,7 +28,7 @@ I'm **research-first by instinct**. Before I touch a dataset, I want to understa
 - 🏆 **Google Data Analytics Professional Certificate** — Coursera
 - 📖 Preparing for **Microsoft PL-300** (Power BI certification)
 - 💬 Ask me about **EDA, SQL queries, dashboards, or data cleaning**
-- ⚡ Fun fact: I rerun the query three times just to be sure 
+- ⚡ Fun fact: I rerun the query three times just to be sure
 
 ---
 
