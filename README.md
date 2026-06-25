@@ -25,7 +25,6 @@ I'm **research-first by instinct**. Before I touch a dataset, I want to understa
 - 📊 Building real-world projects using **SQL, Python, Power BI & Excel**
 - 🤖 Exploring **Machine Learning** — Scikit-learn, feature engineering, model evaluation
 - 🎯 Actively seeking **remote Data Analytics / ML internships**
-- 🏆 **Google Data Analytics Professional Certificate** — Coursera
 - 📖 Preparing for **Microsoft PL-300** (Power BI certification)
 - 💬 Ask me about **EDA, SQL queries, dashboards, or data cleaning**
 - ⚡ Fun fact: I rerun the query three times just to be sure
