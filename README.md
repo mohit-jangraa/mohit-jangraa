@@ -103,8 +103,8 @@ Sales and growth analytics on Zepto dataset — referral volume analysis, A/B te
 | Degree | Institution | Year |
 |---|---|---|
 | B.Tech — Computer Science | DCRUST, Sonipat, Haryana | 2024 – Pursuing |
-| 12th (PCM) | Swami Chetna Sr. Sec. School, Ganaur | 93.6% |
-| 10th | Om Public School, Ganaur | 98% |
+| 12th (PCM) | Swami Chetna Sr. Sec. School, Sonipat | 93.6% |
+| 10th | Om Public School, Sonipat | 98% |
 
 ---
 
