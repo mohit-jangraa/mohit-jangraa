@@ -79,14 +79,6 @@ fun_fact: I debug my models faster than my sleep schedule
 
 <br/>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohit-jangraa&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
 ### 🚀 Featured Projects
 
 <div align="center">
@@ -98,7 +90,7 @@ fun_fact: I debug my models faster than my sleep schedule
 
 </div>
 
-> ⚠️ **Note:** Update the `repo=` names above to match your **exact** GitHub repo names, or the pinned cards will show "repo not found."
+
 
 <br/>
 
